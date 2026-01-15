@@ -36,14 +36,6 @@ Cada repositório contém documentação explicando o objetivo, tecnologias util
 
 ---
 
-## 📊 GitHub Stats
-
-![Kelvin Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinMartins002\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMartins002\&layout=compact)
-
----
-
 ## 🎯 Objetivo Profissional
 
 Busco oportunidade como **Estagiário ou Desenvolvedor Back-end Júnior**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções bem estruturadas.
@@ -62,4 +54,4 @@ Busco oportunidade como **Estagiário ou Desenvolvedor Back-end Júnior**, onde 
 ## 📫 Contato
 
 * GitHub: você está aqui
-* LinkedIn: *(adicione o link
+* LinkedIn: 
