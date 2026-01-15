@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Kelvin Martins
 
-Sou **Desenvolvedor Back-end em formação**, com base técnica em Informática e foco em **boas práticas de desenvolvimento**, organização de código e aprendizado contínuo. Utilizo este GitHub para registrar minha evolução técnica por meio de projetos práticos e estudos.
+Sou **Desenvolvedor Back-end em formação**, com base técnica em Informática e foco em **boas práticas de desenvolvimento**, organização de código e aprendizado contínuo. 
 
 ---
 
