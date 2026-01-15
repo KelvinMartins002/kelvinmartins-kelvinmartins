@@ -54,4 +54,4 @@ Busco oportunidade como **Estagiário ou Desenvolvedor Back-end Júnior**, onde 
 ## 📫 Contato
 
 * GitHub: você está aqui
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/kelvin-martins-61b1612ba/
