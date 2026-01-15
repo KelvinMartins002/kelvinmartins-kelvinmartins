@@ -38,9 +38,9 @@ Cada repositório contém documentação explicando o objetivo, tecnologias util
 
 ## 📊 GitHub Stats
 
-![Kelvin Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB\&show_icons=true\&theme=default)
+![Kelvin Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinMartins002\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMartins002\&layout=compact)
 
 ---
 
