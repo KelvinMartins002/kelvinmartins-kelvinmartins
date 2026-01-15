@@ -32,8 +32,6 @@ Sou **Desenvolvedor Back-end em formação**, com base técnica em Informática 
 🔹 **Automação de estoque e consultas em Excel**
 🔹 **Projetos acadêmicos e estudos práticos**
 
-Cada repositório contém documentação explicando o objetivo, tecnologias utilizadas e aprendizados adquiridos.
-
 ---
 
 ## 🎯 Objetivo Profissional
@@ -55,3 +53,4 @@ Busco oportunidade como **Estagiário ou Desenvolvedor Back-end Júnior**, onde 
 
 * GitHub: você está aqui
 * LinkedIn: https://www.linkedin.com/in/kelvin-martins-61b1612ba/
+* Instagram: https://www.instagram.com/kelviin.martins?igsh=ZjBrZ2Izb3UzamNl
